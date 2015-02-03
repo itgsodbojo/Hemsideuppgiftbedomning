@@ -44,31 +44,30 @@ Deluppgifterna som ska bedömmas är dom som står i Uppgiftsbeskrivningen. punk
 
 ###Kodning
 
-    HTML
+    **HTML**
 
       Ser er HTML kod bra ut, bra struktur, namngivning
 
-    CSS
+    **CSS**
 
       Ser er CSS kod bra ut, bra struktur, namngivning
 
-    Javascript
+    **Javascript**
 
       Har ni använt er av javascript, enkla elle komplicerade
 
 
 ###Testning och optimering
 
-    Interoperabilitet
-
+    **Interoperabilitet**
+    
     Fungerar er site i olika webbläsare, olika pixel
 
-
-    Optimering
+    **Optimering**
 
     Har ni anpassat bilderna för er sida, se bildbehandling
 
-    Testning
+    **Testning**
 
     Vi har inte använt automatisk tester än, men har ni testat manuellt
 
