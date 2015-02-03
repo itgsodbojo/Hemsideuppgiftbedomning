@@ -74,8 +74,7 @@ Deluppgifterna som ska bedömmas är dom som står i Uppgiftsbeskrivningen. punk
 
 ###Bildbehandling
 
-    Har ni anpassat bilderna på sidan, utseende?, storlek?, antal färger?
-bildtyper?
+    Har ni anpassat bilderna på sidan, utseende?, storlek?, antal färger? bildtyper?
 
 
 
